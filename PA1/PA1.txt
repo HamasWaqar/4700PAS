@@ -1,0 +1,26 @@
+ELEC 4700 PA Session 1
+Hamas Waqar
+101106656
+
+
+New files created:
+basic_fullvector_surf.m
+basic_fullvector_material.m
+basic_fullvector_geometry.m
+basic_fullvector_ten_mode.m
+
+4. This is a first order mode for the half wave ridge wave. We know that this is a first order
+mode as the wave centers around the middle of the waveguide
+
+5. The surf mode shows the magnitude of the modes within the the waveguide to make it easier to visualize.
+However, I feel that this is counter plot displays the information better. 
+
+6b. As the ridge width increases, it was noticed that the neff increases. Additionally, the contour rings showing 
+frequency becomes more circular as the large width reduces the reflections from the waveguide that would cause the 
+weird shape
+
+c. As the mesh density decreased by 8, it was noticed that the contour lines became more seperated. This indicates,
+that the sample between frequencies increases resulting in a less accurate systems
+
+7. As the core increases, the so called circle goes up. As the index increases, the modes properages upwards as the 
+average is going to be more accurate.
